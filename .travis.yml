@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 5.6
+
+notifications:
+  email:
+    recipients:
+      - khoipham7501@gmail.com
+    on_success: always 
+    on_failure: always
